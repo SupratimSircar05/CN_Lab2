@@ -1,3 +1,4 @@
+// UDP socket for server
 #include <stdio.h>
 #include <sys/types.h>
 #include <sys/socket.h>
